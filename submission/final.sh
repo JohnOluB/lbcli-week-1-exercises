@@ -30,7 +30,7 @@ echo "Now, create another wallet called 'treasurewallet' to fund your adventure"
 # WRITE YOUR SOLUTION BELOW:
 bitcoin-cli -regtest createwallet "treasurewallet"
 
-#This is how far I can go, I dont have basic knowledge of bitcoin, I should have picked the mastering bitcoin path instead
+#This is how far I can go, I dont have basic knowledge of bitcoin, I should have picked the mastering bitcoin path instead. Can I be allowed to switch? I hope it's not too late
 
 # Generate an address for mining in the treasure wallet
 # STUDENT TASK: Generate a new address in the treasurewallet
